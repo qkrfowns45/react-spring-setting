@@ -15,7 +15,7 @@ import com.newbietop.book.service.BookService;
 
 import lombok.RequiredArgsConstructor;
 
-@RequiredArgsConstructor //생성자를 자동으로 만들어줌
+@RequiredArgsConstructor //생성자를 자동으로 만들어줌test
 @RestController
 public class BookController {
 
